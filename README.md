@@ -29,7 +29,8 @@ This project delivers a multi-page dashboard web application featuring:
 
 ![User Page]
 *User page view with user-specific details or settings.*
-<img width="990" height="760" alt="s3" src="https://github.com/user-attachments/assets/d283a226-6dbf-4187-9c0c-c92a175f1cb9" />
+<img width="1496" height="756" alt="s3" src="https://github.com/user-attachments/assets/3ef37c6c-0227-4821-9c9d-29e3bebe0277" />
+
 
 ---
 

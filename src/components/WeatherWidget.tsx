@@ -18,7 +18,7 @@ const WeatherWidget = () => {
   const [searchCity, setSearchCity] = useState("");
   const API_KEY = "f5371d5fec241c96d7f8b9773713091a";
 
-  const { data, isLoading, error, refetch } = useQuery<WeatherData>({
+  const { data, isLoading, error} = useQuery<WeatherData>({
     queryKey: ["weather", searchCity],
     queryFn: async () => {
       if (!searchCity) throw new Error("Please enter a city name");

@@ -1,6 +1,7 @@
 import UserPostsManager from "../components/UserPostsManager";
 import NoteManager from "../components/NoteManager";
 import Analytics from "../components/Analytics";
+import WeatherWidget from "../components/WeatherWidget";
 import { useAuth } from "../context/AuthContext";
 
 const Dashboard = () => {
@@ -22,6 +23,7 @@ const Dashboard = () => {
         <UserPostsManager />
         <NoteManager />
         <Analytics />
+        <WeatherWidget />
       </div>
     </div>
   );

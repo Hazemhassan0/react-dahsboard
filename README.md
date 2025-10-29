@@ -24,12 +24,12 @@ This project delivers a multi-page dashboard web application featuring:
 
 ![Main Dashboard]  
 *Main dashboard overview with nav and widgets.*
-<img width="1590" height="647" alt="s2" src="https://github.com/user-attachments/assets/b6ec0b92-a626-44d0-830f-f65faa7bc7da" />
+<img width="1584" height="727" alt="2" src="https://github.com/user-attachments/assets/750df498-faa0-44c3-81d3-ea4ab23efa25" />
 
 
 ![User Page]
 *User page view with user-specific details or settings.*
-<img width="1496" height="756" alt="s3" src="https://github.com/user-attachments/assets/3ef37c6c-0227-4821-9c9d-29e3bebe0277" />
+<img width="1410" height="757" alt="3" src="https://github.com/user-attachments/assets/d21a77bc-42c7-4f6a-841a-a2b1c2c8823a" />
 
 
 ---
